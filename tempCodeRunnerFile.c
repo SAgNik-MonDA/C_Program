@@ -1,0 +1,1 @@
+printf("The elements in the stack are:\n");
